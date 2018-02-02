@@ -1,0 +1,15 @@
+#sidebar{
+    width: 20%;
+    float: left;
+}
+#content{
+    width: 80%;
+    float: left;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    border: solid 1px #ccc;
+}
